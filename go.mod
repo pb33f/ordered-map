@@ -4,7 +4,7 @@ go 1.24
 
 require (
 	github.com/bahlo/generic-list-go v0.2.0
-	github.com/buger/jsonparser v1.1.1
+	github.com/buger/jsonparser v1.1.2
 	github.com/stretchr/testify v1.11.1
 	go.yaml.in/yaml/v4 v4.0.0-rc.2
 )
